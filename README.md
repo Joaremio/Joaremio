@@ -10,7 +10,5 @@ Atualmente sou estudante de **Tecnologia da Informação** na **UFRN** e estou a
 - **Infraestrutura** com **Docker** e **Git**
 
 ## 📬 Como me encontrar:
-- **LinkedIn**: [linkedin.com/in/joaremio-neto](www.linkedin.com/in/joaremio-neto-94638a22b)
+- **LinkedIn**: [linkedin.com/in/joaremio-neto](https://www.linkedin.com/in/joaremio-neto-94638a22b)
 - **Email**: joaremiorevoredo@gmail.com
-
----
