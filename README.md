@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, sou Joaremio Neto 👋
 
-<!--
-**Joaremio/Joaremio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Formação:
+Atualmente sou estudante de **Tecnologia da Informação** na **UFRN** e estou aprendendo sobre Arquitetura e Desenvolvimento de Software.
 
-Here are some ideas to get you started:
+## 🧑‍💻 O que estou aprendendo:
+- **Desenvolvimento Web** com **React** e **Node.js**
+- **Back-end** com **Spring Boot** e **Java**
+- **Banco de Dados** com **MySQL** e **MongoDB**
+- **Infraestrutura** com **Docker** e **Git**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Como me encontrar:
+- **LinkedIn**: [linkedin.com/in/joaremio-neto](www.linkedin.com/in/joaremio-neto-94638a22b)
+- **Email**: joaremiorevoredo@gmail.com
+
+---
