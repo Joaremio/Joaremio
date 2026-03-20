@@ -19,7 +19,7 @@ Sou graduando do 9º período de Tecnologia da Informação na Universidade Fede
 -  Criação e padronização de containers com Docker para projetos institucionais, como NBF e Elixir-RJ, garantindo ambientes consistentes.
 -  Atuação no ciclo completo de desenvolvimento de software colaborando via metodologias ágeis (Scrum) e versionamento com Git.
 
-**Iniciação Científica - Bioinformática | [cite_start]Instituto do Cérebro - UFRN/RN** (2025) 
+**Iniciação Científica - Bioinformática | Instituto do Cérebro - UFRN/RN** (2025) 
 - Desenvolvimento de pipelines computacionais utilizando Nextflow e Groovy.
 - Gestão de ambientes de pesquisa e criação de workflows isolados utilizando containers Docker.
 
