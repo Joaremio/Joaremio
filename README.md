@@ -23,11 +23,16 @@ Sou graduando do 9º período de Tecnologia da Informação na Universidade Fede
 - Desenvolvimento de pipelines computacionais utilizando Nextflow e Groovy.
 - Gestão de ambientes de pesquisa e criação de workflows isolados utilizando containers Docker.
 
-*Experiências anteriores incluem análise de segurança da informação e prevenção de fraudes na Teleperformance (2022-2024), onde desenvolvi fortes habilidades de investigação e resolução de problemas.*
-
 ## 📚 Educação
 - **Bacharelado em Tecnologia da Informação** – UFRN (9º período)
-- **Técnico em Eletrotécnica** – IFRN (2022) 
+- **Técnico em Eletrotécnica** – IFRN (2022)
+
+## 📊
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaremio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaremio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## 📬 Como me encontrar:
 - **LinkedIn**: [linkedin.com/in/joaremio-neto](https://www.linkedin.com/in/joaremio-neto) 
