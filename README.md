@@ -1,15 +1,19 @@
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaremio&layout=compact&langs_count=6&theme=dracula"/>
+
 # Olá, sou Joaremio Neto 👋
 
 👨‍💻 **Desenvolvedor Web Fullstack** | **Estudante de TI na UFRN**
 
 Sou graduando do 9º período de Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN). Tenho experiência prática na criação de aplicações web modernas e responsivas, atuando desde a concepção de interfaces até a estruturação e implementação de APIs RESTful.
 
+<br>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Front-end:** React, Next.js, TypeScript, JavaScript, Tailwind CSS 
-- **Back-end:** Java, Spring Boot, Python, Django
-- **Banco de Dados:** PostgreSQL, MySQL
-- **Infraestrutura & DevOps:** Docker, Kubernetes, Git/GitHub, Linux 
+- **Back-end:** Java, Spring Boot, Python
+- **Banco de Dados:** PostgreSQL
+- **Infraestrutura & DevOps:** Docker, Git/GitHub, Linux 
 
 ## 💼 Experiência Profissional em Destaque
 
@@ -27,12 +31,6 @@ Sou graduando do 9º período de Tecnologia da Informação na Universidade Fede
 - **Bacharelado em Tecnologia da Informação** – UFRN (9º período)
 - **Técnico em Eletrotécnica** – IFRN (2022)
 
-## 📊
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaremio&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## 📬 Como me encontrar:
 - **LinkedIn**: [linkedin.com/in/joaremio-neto](https://www.linkedin.com/in/joaremio-neto) 
-- **Email**: joaremiorevoredo@gmail.com 
+- **Email**: joaremiorevoredo@gmail.com
