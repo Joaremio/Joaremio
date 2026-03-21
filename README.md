@@ -1,36 +1,56 @@
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaremio&layout=compact&langs_count=6&theme=dracula"/>
+<table>
+  <tr>
+    <td>
 
 # Olá, sou Joaremio Neto 👋
 
-👨‍💻 **Desenvolvedor Web Fullstack** | **Estudante de TI na UFRN**
+👨‍💻 **Desenvolvedor Web Fullstack**  
+🎓 **Estudante de Tecnologia da Informação na UFRN**
 
-Sou graduando do 9º período de Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN). Tenho experiência prática na criação de aplicações web modernas e responsivas, atuando desde a concepção de interfaces até a estruturação e implementação de APIs RESTful.
+Sou graduando do 9º período em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN). Tenho experiência prática no desenvolvimento de aplicações web modernas e responsivas, atuando desde a construção de interfaces até o desenvolvimento e integração de APIs RESTful.
 
-<br>
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Front-end:** React, Next.js, TypeScript, JavaScript, Tailwind CSS 
-- **Back-end:** Java, Spring Boot, Python
-- **Banco de Dados:** PostgreSQL
-- **Infraestrutura & DevOps:** Docker, Git/GitHub, Linux 
+**Front-end:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+**Back-end:** Java, Spring Boot, Python  
+**Banco de Dados:** PostgreSQL  
+**Infraestrutura & DevOps:** Docker, Git/GitHub, Linux  
 
-## 💼 Experiência Profissional em Destaque
+---
 
-**Desenvolvedor Full Stack | Instituto do Cérebro - UFRN/RN** (2025) 
--  Desenvolvimento de front-end utilizando React (Next.js), TypeScript e Tailwind CSS.
--  Implementação de APIs REST no back-end com Java e Spring Boot.
--  Criação e padronização de containers com Docker para projetos institucionais, como NBF e Elixir-RJ, garantindo ambientes consistentes.
--  Atuação no ciclo completo de desenvolvimento de software colaborando via metodologias ágeis (Scrum) e versionamento com Git.
+## 💼 Experiência Profissional
 
-**Iniciação Científica - Bioinformática | Instituto do Cérebro - UFRN/RN** (2025) 
-- Desenvolvimento de pipelines computacionais utilizando Nextflow e Groovy.
-- Gestão de ambientes de pesquisa e criação de workflows isolados utilizando containers Docker.
+### Desenvolvedor Full Stack  
+📍 Instituto do Cérebro - UFRN/RN  
+📅 2025  
+
+- Desenvolvimento de interfaces modernas utilizando React (Next.js), TypeScript e Tailwind CSS  
+- Implementação de APIs REST com Java e Spring Boot  
+- Criação e padronização de ambientes com Docker, garantindo consistência entre projetos (NBF e Elixir-RJ)  
+- Atuação em todo o ciclo de desenvolvimento com metodologias ágeis (Scrum) e versionamento com Git  
+
+---
+
+### Iniciação Científica em Bioinformática  
+📍 Instituto do Cérebro - UFRN/RN  
+📅 2025  
+
+- Desenvolvimento de pipelines computacionais com Nextflow e Groovy  
+- Gerenciamento de ambientes de pesquisa com containers Docker  
+- Criação de workflows reprodutíveis e isolados  
+
+---
 
 ## 📚 Educação
-- **Bacharelado em Tecnologia da Informação** – UFRN (9º período)
-- **Técnico em Eletrotécnica** – IFRN (2022)
 
-## 📬 Como me encontrar:
-- **LinkedIn**: [linkedin.com/in/joaremio-neto](https://www.linkedin.com/in/joaremio-neto) 
-- **Email**: joaremiorevoredo@gmail.com
+🎓 **Bacharelado em Tecnologia da Informação** – UFRN *(9º período)*  
+🎓 **Técnico em Eletrotécnica** – IFRN *(2022)*  
+
+---
+
+## 📬 Contato
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/joaremio-neto  
+📧 **Email:** joaremiorevoredo@gmail.com  
