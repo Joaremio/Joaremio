@@ -22,7 +22,7 @@ Sou graduando do 9º período em Tecnologia da Informação pela Universidade Fe
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor Full Stack  
+### Desenvolvedor Web 
 📍 Instituto do Cérebro - UFRN/RN  
 📅 2025  
 
