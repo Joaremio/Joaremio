@@ -23,7 +23,7 @@ Sou graduando do 9º período em Tecnologia da Informação pela Universidade Fe
 ## 💼 Experiência Profissional
 
 ### Desenvolvedor Web 
-📍 Instituto do Cérebro - UFRN/RN  
+📍 Instituto Metrópole Digital (IMD) - UFRN/RN  
 📅 2025  
 
 - Desenvolvimento de interfaces modernas utilizando React (Next.js), TypeScript e Tailwind CSS  
