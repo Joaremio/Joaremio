@@ -14,7 +14,7 @@ Sou graduando do 9º período em Tecnologia da Informação pela Universidade Fe
 ## 🛠️ Tecnologias e Ferramentas
 
 **Front-end:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
-**Back-end:** Java, Spring Boot, Python  
+**Back-end:** Java, Python, Spring Boot, Django 
 **Banco de Dados:** PostgreSQL  
 **Infraestrutura & DevOps:** Docker, Git/GitHub, Linux  
 
