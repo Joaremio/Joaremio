@@ -17,7 +17,7 @@ Construo aplicações web unindo front-end e back-end com experiência profissio
 
 ## 💬 Sobre mim
 
-Recém-formado em Tecnologia da Informação pela **Universidade Federal do Rio Grande do Norte (UFRN)**, com experiência prática no desenvolvimento de aplicações web full stack utilizando **React, Next.js, Java e Spring Boot**. Atuei em todo o ciclo de vida do desenvolvimento, do frontend às APIs REST e microsserviços, em projetos que foram efetivamente publicados em produção.
+Formado em Tecnologia da Informação pela **Universidade Federal do Rio Grande do Norte (UFRN)**, com experiência prática no desenvolvimento de aplicações web full stack utilizando **React, Next.js, Java e Spring Boot**. Atuei em todo o ciclo de vida do desenvolvimento, do frontend às APIs REST e microsserviços, em projetos que foram efetivamente publicados em produção.
 
 Também tenho vivência em pesquisa científica, desenvolvendo pipelines computacionais para bioinformática, e experiência anterior em **segurança da informação e prevenção a fraudes**, que reforçou minha atenção a detalhes, pensamento analítico e capacidade de resolução de problemas.
 
