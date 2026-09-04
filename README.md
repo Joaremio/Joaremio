@@ -39,7 +39,7 @@ Também tenho vivência em pesquisa científica, desenvolvendo pipelines computa
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor Full-Stack – Bolsista
+### Desenvolvedor Full-Stack 
 📍 Instituto Metrópole Digital (IMD) — UFRN/RN · 📅 2025
 
 - Atuação completa no ciclo de vida da aplicação: frontend com React (Next.js), TypeScript e Tailwind CSS; backend com APIs REST e microsserviços em Java e Spring Boot
@@ -61,12 +61,6 @@ Também tenho vivência em pesquisa científica, desenvolvendo pipelines computa
 - Abertura e classificação de ocorrências de fraudes financeiras, incluindo golpes via Pix e fraudes em cartão de crédito e débito
 - Identificação e tratamento de diferentes tipos de fraude via sistemas internos, com registro estruturado de dados
 - Atuação com fluxos de dados sensíveis, seguindo protocolos rígidos de segurança da informação — experiência que desenvolveu raciocínio analítico e atenção a detalhes, hoje aplicados na identificação de bugs e na escrita de código mais seguro
-
-### Bolsista de Apoio Acadêmico
-📍 IFRN — João Câmara/RN · 📅 2019 – 2022
-
-- Suporte técnico e administrativo a alunos e professores
-- Atendimento de solicitações e resolução de problemas estruturais, desenvolvendo habilidades de comunicação
 
 ---
 
